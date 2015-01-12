@@ -1,0 +1,21 @@
+<%= form_for(@sales_cycle) do |f| %>
+  <% if @sales_cycle.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@sales_cycle.errors.count, "error") %> prohibited this sales_cycle from being saved:</h2>
+
+      <ul>
+      <% @sales_cycle.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :customerCount %><br>
+    <%= f.number_field :customerCount %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

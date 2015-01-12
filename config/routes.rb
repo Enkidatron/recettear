@@ -1,4 +1,17 @@
 Recettear::Application.routes.draw do
+  devise_for :users
+  resources :sales_cycles
+
+  resources :orders
+
+  resources :order_categories
+
+  resources :inventory_items
+
+  resources :item_categories
+
+  resources :items
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
