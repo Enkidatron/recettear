@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150115043137) do
+ActiveRecord::Schema.define(version: 20150115043501) do
 
   create_table "inventory_items", force: true do |t|
     t.boolean  "sold"
@@ -55,7 +55,10 @@ ActiveRecord::Schema.define(version: 20150115043137) do
     t.integer  "customerCount"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "user_id"
   end
+
+  add_index "sales_cycles", ["user_id"], name: "index_sales_cycles_on_user_id"
 
   create_table "users", force: true do |t|
     t.string   "email",                  default: "", null: false
