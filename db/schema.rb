@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150112044523) do
+ActiveRecord::Schema.define(version: 20150115042522) do
 
   create_table "inventory_items", force: true do |t|
     t.boolean  "sold"
@@ -31,7 +31,10 @@ ActiveRecord::Schema.define(version: 20150112044523) do
     t.integer  "price"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "item_category_id"
   end
+
+  add_index "items", ["item_category_id"], name: "index_items_on_item_category_id"
 
   create_table "order_categories", force: true do |t|
     t.string   "name"
