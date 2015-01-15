@@ -11,14 +11,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150115042522) do
+ActiveRecord::Schema.define(version: 20150115043137) do
 
   create_table "inventory_items", force: true do |t|
     t.boolean  "sold"
     t.integer  "price"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "sales_cycle_id"
   end
+
+  add_index "inventory_items", ["sales_cycle_id"], name: "index_inventory_items_on_sales_cycle_id"
 
   create_table "item_categories", force: true do |t|
     t.string   "name"
