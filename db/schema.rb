@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150115043501) do
+ActiveRecord::Schema.define(version: 20150117234151) do
 
   create_table "inventory_items", force: true do |t|
     t.boolean  "sold"
@@ -49,7 +49,10 @@ ActiveRecord::Schema.define(version: 20150115043501) do
     t.integer  "price"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "sales_cycle_id"
   end
+
+  add_index "orders", ["sales_cycle_id"], name: "index_orders_on_sales_cycle_id"
 
   create_table "sales_cycles", force: true do |t|
     t.integer  "customerCount"
