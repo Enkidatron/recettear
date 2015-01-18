@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150118000218) do
+ActiveRecord::Schema.define(version: 20150118002754) do
 
   create_table "inventory_items", force: true do |t|
     t.boolean  "sold"
@@ -40,6 +40,13 @@ ActiveRecord::Schema.define(version: 20150118000218) do
   end
 
   add_index "items", ["item_category_id"], name: "index_items_on_item_category_id"
+
+  create_table "items_order_categories", force: true do |t|
+    t.integer "item_id"
+    t.integer "order_category_id"
+  end
+
+  add_index "items_order_categories", ["item_id", "order_category_id"], name: "index_items_order_categories_on_item_id_and_order_category_id"
 
   create_table "order_categories", force: true do |t|
     t.string   "name"
