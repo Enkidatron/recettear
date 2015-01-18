@@ -1,7 +1,19 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
+  sales_cycle: one
+  order_category: metal
   price: 1
 
 two:
+  sales_cycle: two
+  order_category: hats
   price: 1
+
+nosalescycle:
+  order_category: one
+  price: 0
+
+nocategory:
+  sales_cycle: one
+  price: 5

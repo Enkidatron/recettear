@@ -1,9 +1,47 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
+  item: one
+  sales_cycle: one
   sold: false
   price: 1
+  location: 1
 
-two:
+sword:
+  item: sword
+  sales_cycle: one
   sold: false
-  price: 1
+  price: 0
+  location: 0
+
+armor:
+  item: armor
+  sales_cycle: two
+  sold: false
+  price: 0
+  location: 1
+
+noitem:
+  sales_cycle: one
+  sold: false
+  price: 0
+  location: 2
+
+nosalescycle:
+  item: sword
+  sold: false
+  price: 0
+  location: 0
+
+nolocation: 
+  item: armor
+  sales_cycle: two
+  sold: false
+  price: 0
+
+sold:
+  item: sword
+  sales_cycle: two
+  sold: true
+  price: 125
+  location: 0

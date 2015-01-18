@@ -69,6 +69,6 @@ class SalesCyclesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def sales_cycle_params
-      params.require(:sales_cycle).permit(:customerCount)
+      params.require(:sales_cycle).permit(:customerCount, :user_id)
     end
 end

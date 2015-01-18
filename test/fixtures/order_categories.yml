@@ -1,7 +1,10 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
+metal:
+  name: 'Metal Things'
 
-two:
-  name: MyString
+hats:
+  name: 'Hats'
+
+one:
+  name: 'One'

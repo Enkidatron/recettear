@@ -1,9 +1,28 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  price: 1
+sword:
+  name: 'Worn Sword'
+  price: 100
+  item_category: swords
 
-two:
-  name: MyString
+armor:
+  name: 'Leather Armor'
+  price: 650
+  item_category: armor
+
+nocategory:
+  name: 'NoCat'
+  price: 5
+
+one:
+  name: 'Thing'
   price: 1
+  item_category: one
+
+noname:
+  price: 6
+  item_category: one
+
+noprice:
+  name: 'No Price'
+  item_category: one

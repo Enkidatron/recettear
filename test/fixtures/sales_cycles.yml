@@ -2,6 +2,11 @@
 
 one:
   customerCount: 1
+  user: alice
 
 two:
   customerCount: 1
+  user: bob
+
+nouser:
+  customerCount: 0

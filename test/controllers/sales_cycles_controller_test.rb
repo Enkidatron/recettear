@@ -18,7 +18,7 @@ class SalesCyclesControllerTest < ActionController::TestCase
 
   test "should create sales_cycle" do
     assert_difference('SalesCycle.count') do
-      post :create, sales_cycle: { customerCount: @sales_cycle.customerCount }
+      post :create, sales_cycle: { customerCount: @sales_cycle.customerCount, user_id: @sales_cycle.user_id }
     end
 
     assert_redirected_to sales_cycle_path(assigns(:sales_cycle))

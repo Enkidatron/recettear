@@ -18,7 +18,7 @@ class InventoryItemsControllerTest < ActionController::TestCase
 
   test "should create inventory_item" do
     assert_difference('InventoryItem.count') do
-      post :create, inventory_item: { price: @inventory_item.price, sold: @inventory_item.sold }
+      post :create, inventory_item: { price: @inventory_item.price, sold: @inventory_item.sold, item_id: @inventory_item.item_id, sales_cycle_id: @inventory_item.sales_cycle_id, location: @inventory_item.location }
     end
 
     assert_redirected_to inventory_item_path(assigns(:inventory_item))
