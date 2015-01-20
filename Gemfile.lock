@@ -36,7 +36,12 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 0.3.37)
     arel (4.0.2)
+    autoprefixer-rails (5.0.0.1)
+      execjs
     bcrypt-ruby (3.1.2)
+    bootstrap-sass (3.3.3)
+      autoprefixer-rails (>= 5.0.0.1)
+      sass (>= 3.2.19)
     browserify-rails (0.5.1)
       sprockets (~> 2.0)
     builder (3.1.4)
@@ -149,6 +154,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bootstrap-sass (~> 3.3.3)
   browserify-rails (~> 0.3)
   coffee-rails (~> 4.0.0)
   devise

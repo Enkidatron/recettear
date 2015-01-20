@@ -62,3 +62,6 @@ gem 'devise'
 
 # React
 gem 'react-rails', '~> 1.0.0.pre', github: 'reactjs/react-rails'
+
+# Bootstrap
+gem 'bootstrap-sass', '~> 3.3.3'
