@@ -14,6 +14,6 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require react
-//= require components
 //= require react_ujs
-//= require_tree .
+//= require components
+// require_tree .

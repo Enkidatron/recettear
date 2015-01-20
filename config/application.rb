@@ -20,6 +20,6 @@ module Recettear
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     # config.i18n.default_locale = :de
 
-    config.browserify_rails.commandline_options = "-t coffeeify --extension=\".js.coffee\""
+    config.browserify_rails.commandline_options = "-t coffeeify --extension=\".js.coffee\" -t reactify --extension=\".js.jsx\""
   end
 end
