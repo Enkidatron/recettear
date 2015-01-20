@@ -1,0 +1,2 @@
+module SalesCyclesHelper
+end

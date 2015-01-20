@@ -1,0 +1,12 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customerCount: 1
+  user: alice
+
+two:
+  customerCount: 1
+  user: bob
+
+nouser:
+  customerCount: 0

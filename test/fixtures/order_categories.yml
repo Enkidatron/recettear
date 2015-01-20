@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+metal:
+  name: 'Metal Things'
+
+hats:
+  name: 'Hats'
+
+one:
+  name: 'One'

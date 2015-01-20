@@ -1,0 +1,27 @@
+<h1>Listing sales_cycles</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Customercount</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @sales_cycles.each do |sales_cycle| %>
+      <tr>
+        <td><%= sales_cycle.customerCount %></td>
+        <td><%= link_to 'Show', sales_cycle %></td>
+        <td><%= link_to 'Edit', edit_sales_cycle_path(sales_cycle) %></td>
+        <td><%= link_to 'Destroy', sales_cycle, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Sales cycle', new_sales_cycle_path %>

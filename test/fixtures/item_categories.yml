@@ -1,0 +1,12 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+swords:
+  name: 'Swords'
+
+armor:
+  name: 'Armor'
+
+one:
+  name: 'One'
+
+noname: {}
