@@ -5,7 +5,7 @@ window.App = React.createClass({
     displayName: 'App',
     render: function () {
         return (
-            <div>App! <Header /><Body /></div>
+            <div><Header /><AboutModal /><Body /></div>
         );
     }
 });
