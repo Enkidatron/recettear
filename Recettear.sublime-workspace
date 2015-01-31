@@ -1,0 +1,909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sales",
+				"sales_cycles"
+			],
+			[
+				"navig",
+				"navigational_formats"
+			],
+			[
+				"http_",
+				"http_authenticatable_on_xhr"
+			],
+			[
+				"update-mid",
+				"update-mid-front"
+			],
+			[
+				"intern",
+				"intern"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/app/app.html.erb",
+			"settings":
+			{
+				"buffer_size": 352,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/application.rb",
+			"settings":
+			{
+				"buffer_size": 986,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 664,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1430,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"syn jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conv space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git file",
+				"Git: Show Current File"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Init"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa list",
+				"Package Control: List Packages"
+			],
+			[
+				"syn ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"coffee",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/assets",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/assets/javascripts",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/controllers",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/views",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/views/app"
+	],
+	"file_history":
+	[
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/assets/javascripts/components/header.js.jsx",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/assets/javascripts/components/app.js.jsx",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/assets/javascripts/components/body.js.jsx",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/node_modules/reactify/node_modules/react-tools/src/browser/ui/dom/ViewportMetrics.js",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/node_modules/reactify/node_modules/react-tools/vendor/fbtransform/visitors.js",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/node_modules/browserify/node_modules/vm-browserify/test/vm.js",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/views/app/app.html.erb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/Gemfile",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/package.json",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/config.ru",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/db/migrate/20150112043952_create_orders.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/config/initializers/devise.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/config/environments/production.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/db/schema.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/node_modules/coffeeify/node_modules/coffee-script/node_modules/mkdirp/test/sync.js",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/assets/javascripts/application.js",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/config/application.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/assets/javascripts/components.js",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/node_modules/coffeeify/node_modules/convert-source-map/test/convert-source-map.js",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/node_modules/coffeeify/node_modules/coffee-script/node_modules/mkdirp/examples/pow.js",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/node_modules/coffeeify/node_modules/convert-source-map/package.json",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/node_modules/coffeeify/node_modules/convert-source-map/test/fixtures/map-file-comment-inline.css",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/node_modules/coffeeify/node_modules/coffee-script/node_modules/mkdirp/LICENSE",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/config/environments/development.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/db/development.sqlite3",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/views/devise/passwords/edit.html.erb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/npm-debug.log",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/controllers/inventory_items_controller.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/controllers/sales_cycles_controller.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/controllers/orders_controller.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/controllers/items_controller.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/fixtures/items.yml",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/fixtures/sales_cycles.yml",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/fixtures/orders.yml",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/fixtures/item_categories.yml",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/models/inventory_item.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/models/sales_cycle.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/models/item.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/models/order.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/models/item_category.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/controllers/item_categories_controller_test.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/controllers/orders_controller_test.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/controllers/inventory_items_controller_test.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/models/item_test.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/models/sales_cycle_test.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/controllers/items_controller_test.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/controllers/sales_cycles_controller_test.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/models/inventory_item_test.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/fixtures/inventory_items.yml",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/helpers/inventory_items_helper.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/assets/javascripts/inventory_items.js.coffee",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/assets/stylesheets/inventory_items.css.scss",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/models/item_category_test.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/models/order_category.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/models/order_test.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/controllers/app_controller.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/models/order_category_test.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/fixtures/order_categories.yml",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/log/test.log",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/fixtures/users.yml",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/models/.keep",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/models/.keep",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/config/initializers/mime_types.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/views/inventory_items/index.html.erb",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/helpers/sales_cycles_helper.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/tmp/cache/assets/development/sprockets/a40dc5b5207382f7a5bedc303b1798cd",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/test/fixtures/.keep",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/config/locales/en.yml",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/config/database.yml",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/config/initializers/filter_parameter_logging.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/db/test.sqlite3",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/config/initializers/inflections.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/models/user.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/config/routes.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/views/inventory_items/new.html.erb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/views/inventory_items/edit.html.erb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/vendor/assets/javascripts/.keep",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/recettear/app/controllers/application_controller.rb",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/app/assets/javascripts/collections/ships.js.coffee",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/config.ru",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/app/assets/javascripts/ship_calculator.js.coffee",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/app/assets/templates/ships/index.jst.ejs",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/LICENSE",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/.gitattributes",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/app/assets/templates/ships/targetPanelTargetlist.jst.ejs",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/app/assets/templates/ships/targetPanelTargetlistLineitem.jst.ejs",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/app/assets/templates/ships/navPanel.jst.ejs",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/app/assets/javascripts/ships.js.coffee",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/app/assets/javascripts/observer.js.coffee",
+		"/C/Users/Ben/Nitrous/white-harbor-rails/SITS2/app/assets/javascripts/views/shipDetailTargetlistView.js.coffee",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/config/initializers/devise.rb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/config/environments/test.rb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/models/user.rb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/models/ship.rb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/db/schema.rb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/config/routes.rb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/db/seeds.rb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/config/boot.rb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/config.ru",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/.gitattributes",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/javascripts/views/shipDetailTargetView.js.coffee",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/javascripts/views/shipDetailTargetlistView.js.coffee",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/javascripts/views/ships_index.js.coffee",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/views/ships/new.html.erb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/javascripts/views/shipNav.js.coffee",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/views/ships/show.rabl",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/views/ships/index.rabl",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/views/ships/index.html.erb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/tmp/cache/assets/development/sass/8ff667c8bb08703fb403fa663c0ba724e35891a3/_variables.scssc",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/templates/ships/targetPanel.jst.ejs",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/templates/ships/navPanel.jst.ejs",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/templates/ships/index.jst.ejs",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/db/test.sqlite3",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/javascripts/application.js",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/templates/ships/navPanelInput.jst.ejs",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/templates/ships/shipNav.jst.ejs",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/templates/ships/navPanelVerify.jst.ejs",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/SITS2.sublime-project",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/helpers/ships_helper.rb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/Gemfile",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/views/devise/registrations/_new_modal.html.erb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/views/devise/sessions/_new_modal.html.erb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/views/devise/registrations/_edit_modal.html.erb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/views/devise/shared/_devise_items.html.erb",
+		"/C/Users/bthomas/Nitrous/white-harbor-rails/SITS2/app/assets/templates/ships/shipNew.jst.ejs"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new",
+			"type",
+			"inventoryItem",
+			"spaces",
+			"h3",
+			"col-xs-8\">",
+			"col-xs-8",
+			"md",
+			"4",
+			"col-xs-12 ",
+			"col-xs-12",
+			"span",
+			"navigational_formats",
+			"edit_user",
+			"editAccountModal",
+			"aboutModal",
+			"About Modal",
+			"propertyUpdated",
+			"this.identifier",
+			"identifier",
+			"model.escape(propertyUpdated)",
+			" \n",
+			"Front",
+			"\\(((?<1>).*)\\.to_s\\)",
+			"((?<1>)[^:])((?<3>)'[abcdef]*[-+]*')",
+			"split_bearing",
+			"((?<1>)[^:])((?<3>)'[abcdef]*[-+]*')",
+			"((?<1>)[^:])((?<hello>)'[abcdef]*[-+]*')",
+			"((?<1>)[^:])((?<2>)'[abcdef]*[-+]*')",
+			"((?<1>)[^:])((?<1>)'[abcdef]*[-+]*')",
+			"((?<1>)[^:])((?<2>)'[abcdef]*[-+]*')",
+			"[^:]'[abcdef]*[-+]*'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"model.propertyUpdated",
+			"this.propertyUpdated",
+			"propertyUpdated",
+			"this.identifier",
+			"identifier",
+			"Top",
+			"($1)",
+			"$1:$3",
+			"$1:$hello",
+			"$1:$2",
+			"$1:$1",
+			"$1:$2",
+			"$1:'$2'",
+			"$1:'$2$3'",
+			"$1:'$2:3'",
+			"[^:]:'[abcdef]*[-+]*'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/app/app.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/application.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/javascripts/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"project": "Recettear.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"view",
+				"app\\views\\app\\app.html.erb"
+			],
+			[
+				"applica",
+				"app\\assets\\javascripts\\application.js"
+			],
+			[
+				"appli",
+				"config\\application.rb"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"produc",
+				"config\\environments\\production.rb"
+			],
+			[
+				"development.rb",
+				"config\\environments\\development.rb"
+			],
+			[
+				"application",
+				"app\\assets\\javascripts\\application.js"
+			],
+			[
+				"ordercontest",
+				"test\\controllers\\orders_controller_test.rb"
+			],
+			[
+				"invitemcon",
+				"app\\controllers\\inventory_items_controller.rb"
+			],
+			[
+				"inventoryite",
+				"app\\models\\inventory_item.rb"
+			],
+			[
+				"inventoryitemcontest",
+				"test\\controllers\\inventory_items_controller_test.rb"
+			],
+			[
+				"itemtest",
+				"test\\models\\item_test.rb"
+			],
+			[
+				"salescyclecon",
+				"app\\controllers\\sales_cycles_controller.rb"
+			],
+			[
+				"salecycleconttest",
+				"test\\controllers\\sales_cycles_controller_test.rb"
+			],
+			[
+				"salescycletest",
+				"test\\models\\sales_cycle_test.rb"
+			],
+			[
+				"itemcattest",
+				"test\\controllers\\item_categories_controller_test.rb"
+			],
+			[
+				"ordercontrol",
+				"app\\controllers\\orders_controller.rb"
+			],
+			[
+				"itemcontrol",
+				"app\\controllers\\items_controller.rb"
+			],
+			[
+				"items.",
+				"test\\fixtures\\items.yml"
+			],
+			[
+				"item",
+				"app\\models\\item.rb"
+			],
+			[
+				"itemcontest",
+				"test\\controllers\\items_controller_test.rb"
+			],
+			[
+				"itemcatetest",
+				"test\\controllers\\item_categories_controller_test.rb"
+			],
+			[
+				"testordercon",
+				"test\\controllers\\orders_controller_test.rb"
+			],
+			[
+				"fixsales",
+				"test\\fixtures\\sales_cycles.yml"
+			],
+			[
+				"testmodsa",
+				"test\\models\\sales_cycle_test.rb"
+			],
+			[
+				"fixorder",
+				"test\\fixtures\\orders.yml"
+			],
+			[
+				"testmodorder",
+				"test\\models\\order_test.rb"
+			],
+			[
+				"testmodel",
+				"test\\models\\order_category_test.rb"
+			],
+			[
+				"fixitemcat",
+				"test\\fixtures\\item_categories.yml"
+			],
+			[
+				"model",
+				"app\\models\\sales_cycle.rb"
+			],
+			[
+				"itemcontteest",
+				"test\\controllers\\items_controller_test.rb"
+			],
+			[
+				"fixitem",
+				"test\\fixtures\\item_categories.yml"
+			],
+			[
+				"fixordercat",
+				"test\\fixtures\\order_categories.yml"
+			],
+			[
+				"fixorders",
+				"test\\fixtures\\orders.yml"
+			],
+			[
+				"fixuser",
+				"test\\fixtures\\users.yml"
+			],
+			[
+				"fix",
+				"test\\fixtures\\users.yml"
+			],
+			[
+				"yml",
+				"test\\fixtures\\items.yml"
+			],
+			[
+				"fixinv",
+				"test\\fixtures\\inventory_items.yml"
+			],
+			[
+				"testmitem",
+				"test\\models\\item_test.rb"
+			],
+			[
+				"inv",
+				"app\\models\\inventory_item.rb"
+			],
+			[
+				"schema",
+				"db\\schema.rb"
+			],
+			[
+				"viewapp",
+				"app\\views\\app\\app.html.erb"
+			],
+			[
+				"routes",
+				"config\\routes.rb"
+			],
+			[
+				"config",
+				"config\\initializers\\devise.rb"
+			],
+			[
+				"coffee",
+				"app\\assets\\javascripts\\collections\\ships.js.coffee"
+			],
+			[
+				"viewtarget",
+				"app\\assets\\javascripts\\views\\shipDetailTargetlistView.js.coffee"
+			],
+			[
+				"header",
+				"app\\views\\layouts\\_header.html.erb"
+			],
+			[
+				"nav",
+				"app\\assets\\templates\\ships\\navPanel.jst.ejs"
+			],
+			[
+				"viewships",
+				"app\\assets\\javascripts\\views\\ships_index.js.coffee"
+			],
+			[
+				"templateind",
+				"app\\assets\\templates\\ships\\index.jst.ejs"
+			],
+			[
+				"templatetar",
+				"app\\assets\\templates\\ships\\targetPanel.jst.ejs"
+			],
+			[
+				"templatetargetitem",
+				"app\\assets\\templates\\ships\\targetPanelTargetlistLineitem.jst.ejs"
+			],
+			[
+				"templatetarget",
+				"app\\assets\\templates\\ships\\targetPanelTargetlist.jst.ejs"
+			],
+			[
+				"templatenav",
+				"app\\assets\\templates\\ships\\navPanel.jst.ejs"
+			],
+			[
+				"templateshipnew",
+				"app\\assets\\templates\\ships\\shipNew.jst.ejs"
+			],
+			[
+				"template",
+				"app\\assets\\templates\\ships\\index.jst.ejs"
+			],
+			[
+				"deviseitems",
+				"app\\views\\devise\\shared\\_devise_items.html.erb"
+			],
+			[
+				"initializersdevi",
+				"config\\initializers\\devise.rb"
+			],
+			[
+				"application.js",
+				"app\\assets\\javascripts\\application.js"
+			],
+			[
+				"javascriptview",
+				"app\\assets\\javascripts\\views\\shipNav.js.coffee"
+			],
+			[
+				"obser",
+				"app\\assets\\javascripts\\observer.js.coffee"
+			],
+			[
+				"sessions",
+				"app\\controllers\\sessions_controller.rb"
+			],
+			[
+				"configinitdevise",
+				"config\\initializers\\devise.rb"
+			],
+			[
+				"deviselinks",
+				"app\\views\\devise\\shared\\_links.erb"
+			],
+			[
+				"deviseregnew",
+				"app\\views\\devise\\registrations\\new.html.erb"
+			],
+			[
+				"devisesessnew",
+				"app\\views\\devise\\sessions\\new.html.erb"
+			],
+			[
+				"deviseregedit",
+				"app\\views\\devise\\registrations\\edit.html.erb"
+			],
+			[
+				"deviseedit",
+				"app\\views\\devise\\passwords\\edit.html.erb"
+			],
+			[
+				"form",
+				"app\\views\\ships\\_form.html.erb"
+			],
+			[
+				"modal",
+				"app\\views\\layouts\\_about_modal.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"selected_items":
+		[
+			[
+				"e",
+				"C:\\Users\\bthomas\\Nitrous\\white-harbor-rails\\exercism\\exercism.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\bthomas\\Nitrous\\white-harbor-rails\\Sits\\Sits.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
