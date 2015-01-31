@@ -6,3 +6,4 @@
 <li><%= link_to 'orders', orders_path %></li>
 <li><%= link_to 'order_categories', order_categories_path %></li>
 </ul>
+<%= react_component('ItemsList', {initialItems: @items}, {prerender: params[:noprerender].nil? ? true : false }) %>
