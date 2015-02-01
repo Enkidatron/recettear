@@ -16,6 +16,3 @@
 //= require react
 //= require react_ujs
 //= require components
-
-var Greeter = require('./greeter');
-// Greeter.sayHello('person');
