@@ -15,7 +15,7 @@
 //= require turbolinks
 //= require react
 //= require react_ujs
-//= require_tree .
+//= require components
 
 var Greeter = require('./greeter');
-Greeter.sayHello('person');
+// Greeter.sayHello('person');

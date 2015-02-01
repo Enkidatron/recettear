@@ -1,2 +1,3 @@
 // Tell react-rails where our components are
-//= require_tree ./components
+//= require ./components/items_list
+window.ItemsList = ItemsList
